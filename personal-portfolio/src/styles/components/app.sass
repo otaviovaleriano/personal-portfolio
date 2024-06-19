@@ -1,0 +1,44 @@
+@use '../variables'
+
+#portfolio
+    display: flex
+    flex-wrap: wrap
+    padding: 3rem
+    gap: 3rem
+
+    h1
+        width: 100%
+        font-size: 5rem
+        margin-bottom: 4rem
+        background: variables.$gradient
+        // gradient on the text instead of card
+        -webkit-background-clip: text
+        -webkit-text-fill-color: transparent
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.899), 0 3px 5px rgba(168, 169, 174, 0.69)
+
+    .App-header
+        display: flex
+        justify-content: space-between
+        align-items: center
+        padding: 10px
+        // background-color: #282c34
+        color: white
+        width: 100%
+
+        button
+            padding: 10px 20px
+            margin: 5px
+            margin-top: -3rem
+            cursor: pointer
+            background-color: #61dafb
+            border: none
+            border-radius: 15px
+            font-size: 12px
+            color: #282c34
+            font-weight: bold
+
+        span
+            width: 50px
+            padding: 0px
+            margin-bottom: 10px
+            height: 40px
