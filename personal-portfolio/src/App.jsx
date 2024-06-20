@@ -26,10 +26,12 @@ function App() {
           <button onClick={toggleLanguage} className="language-toggle">
             {i18n.language === 'EN' ? (
               <>
+              <span>Language</span> <br />
                 <span className="fi fi-us fis"></span> EN
               </>
             ) : (
               <>
+              <span>Idioma</span> <br />
                 <span className="fi fi-br fis"></span> PT
               </>
             )}

@@ -7,7 +7,7 @@ const resources = {
         about: {
           title: "About",
           description: "With over five years of tech experience, I excel in delivering innovative solutions and exceptional service. I specialize in Agile methodologies (SCRUM, Kanban), JavaScript (vanilla, AngularJS, Svelte, and ReactJS), HTML5, CSS, and databases (relational and non-relational).",
-          education: "I hold an Associate Degree in Software Analysis and Development from Brazil and am pursuing a Bachelor's in Software Engineering at Brigham Young University - Idaho.",
+          education: "I hold an Associate Degree in Software Analysis and Development from Brazil and am pursuing a Bachelor's in Software Engineering at Brigham Young University - Idaho. I am Native in Portuguese, Fluent in English, and Intermdiate in Spanish",
         },
         information: {
             phone: "Phone",
@@ -28,7 +28,7 @@ const resources = {
         about: {
           title: "Sobre",
           description: "Com mais de cinco anos de experiência em tecnologia, eu me destaco em fornecer soluções inovadoras e um serviço excepcional. Sou especializado em metodologias Ágeis (SCRUM, Kanban), JavaScript (vanilla, AngularJS, Svelte e ReactJS), HTML5, CSS e bancos de dados (relacionais e não relacionais).",
-          education: "Tenho graduação como Técnologo em Análise e Desenvolvimento de Sistemas no Brasil e estou cursando um bacharelado em Engenharia de Software na Brigham Young University - Idaho.",
+          education: "Tenho graduação como Técnologo em Análise e Desenvolvimento de Sistemas no Brasil e estou cursando um bacharelado em Engenharia de Software na Brigham Young University - Idaho. Sou Nativo em Português, Fluente em Inglês e Intermediário em Espanhol.",
         },
         information: {
             phone: "Telefone",
